@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDw1j7GOI6uIH_8L-oF7X-OIx2g2dh-OXo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>677267039930</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.crmapp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>shopmitra-4f135</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shopmitra-4f135.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:677267039930:ios:2640ae8a4efabba90d0483</string>
+</dict>
+</plist>

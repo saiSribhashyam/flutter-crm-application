@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677267039930",
+    "project_id": "shopmitra-4f135",
+    "storage_bucket": "shopmitra-4f135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677267039930:android:124745fa1fc730270d0483",
+        "android_client_info": {
+          "package_name": "com.example.crmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvFgQ8Uqs7gecuDLD2jpXD2mEUVoQ33fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
